@@ -17,3 +17,4 @@ name = "changeme"
 path = "src/main.rs"
 
 [dependencies]
+yahoo_finance_api = "1.1.5"
